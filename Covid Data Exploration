@@ -1,3 +1,12 @@
+BACKGROUND:
+Huge thanks to Alex the Analyst for this project idea!
+
+Began this project by exporting data from https://ourworldindata.org/covid-deaths.
+Opened exported sheet in excel and created to sets of data for Covid Deaths and Covid Vaccinations.
+I used my macbook pro, so i had to connect to SQL Server by using Docker and Azure Data Studio
+I created a new database and imported the data from CSVs and began the work below:
+
+
 /*
 Covid 19 Data Exploration 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
